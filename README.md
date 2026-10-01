@@ -1,6 +1,3 @@
-# wujastyk.github.io
-## Dominik Wujastyk: selected Git Projects 
-
 1. [The Suśruta Projects - main starting page](https://sushrutaporject.github.io/)
 2. [The Suśruta Project 1.0](https://sushrutaporject1.github.io/)
 3. [The Suśruta Project 2.0](https://sushrutaproject2.github.io/)
